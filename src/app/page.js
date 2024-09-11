@@ -69,7 +69,7 @@ export default function Home() {
               </Typography>
             </Container>
           </>
-          <button onClick={handleLogout}>Log Out</button>
+          <button onClick={handleLogout}>Log Out!!</button>
         </div>
       )}
     </div>
